@@ -86,10 +86,13 @@ header {
     float: left;
 }
 .menu {
-    width: 75%;
+    width: 90%;
 }
 .social {
-    width: 25%;
+    width: 10%;
+}
+.social ul {
+    text-align: center;
 }
 .menu ul li {
     display: inline-block;
